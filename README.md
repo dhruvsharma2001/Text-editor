@@ -22,9 +22,9 @@ https://github.com/dhruvsharma2001/Text-editor/assets/115227371/41558f06-9d20-4b
 
 ![Screenshot 2023-07-11 142203](https://github.com/dhruvsharma2001/Text-editor/assets/115227371/16c9bae8-142d-4871-b858-b69d6fe20de5)
 
-i. Java based Notepad with Stack type clipboard to keep multiple strins in clipboard
-ii. Graphical User Interface made by Java Swing
-iii. A menu bar with follwing menus
+* Java based Notepad with Stack type clipboard to keep multiple strins in clipboard
+* Graphical User Interface made by Java Swing
+* A menu bar with follwing menus
 
 * File handling (New , Open , Save, Save As , Exit),
 * Editing options (Cut , Copy , Paste)
